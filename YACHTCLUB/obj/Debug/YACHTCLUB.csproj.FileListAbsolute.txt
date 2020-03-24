@@ -1,0 +1,56 @@
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe.config
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csprojAssemblyReference.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Properties.Resources.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.GenerateResource.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.CoreCompileInputs.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Auth.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Registration.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Administator.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Managers.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Мишин Дмитрий\Специальная\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Orders.resources
+E:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe.config
+E:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe
+E:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.pdb
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csprojAssemblyReference.cache
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Administator.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Auth.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Managers.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Orders.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Properties.Resources.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Registration.resources
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.GenerateResource.cache
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.CoreCompileInputs.cache
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.exe
+E:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.pdb
+D:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe.config
+D:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe
+D:\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.pdb
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csprojAssemblyReference.cache
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Administator.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Auth.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Managers.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Orders.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Properties.Resources.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Registration.resources
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.GenerateResource.cache
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.CoreCompileInputs.cache
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.exe
+D:\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.pdb
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe.config
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.exe
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\bin\Debug\YACHTCLUB.pdb
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csprojAssemblyReference.cache
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Administator.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Auth.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Managers.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Orders.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Properties.Resources.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.Registration.resources
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.GenerateResource.cache
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.csproj.CoreCompileInputs.cache
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.exe
+F:\ПРЕДМЕТЫ\МДК.01.01 Эксплуатация ИС\YACHTCLUB\YACHTCLUB\obj\Debug\YACHTCLUB.pdb
